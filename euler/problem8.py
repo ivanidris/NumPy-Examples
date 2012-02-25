@@ -36,5 +36,3 @@ for i in xrange(len(digits) - 5):
 
 #2. Get the max of the products
 print numpy.array(products).max()
-
-#Have a go. Ignore 0s. Select at least one 9.
