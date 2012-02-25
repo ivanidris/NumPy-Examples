@@ -1,0 +1,9 @@
+These examples are documented in several blog entries:
+
+steadystatevector.py 
+http://ivanidris.net/wordpress/index.php/2011/12/17/steady-state-vector-of-markov-chains
+powerlaw14.py
+http://ivanidris.net/wordpress/index.php/2012/02/15/power-law-discovery
+
+periodic15.py
+http://ivanidris.net/wordpress/index.php/2012/02/25/numpy-periodic-dips
